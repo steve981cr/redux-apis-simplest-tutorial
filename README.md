@@ -1,7 +1,7 @@
 # README
 
 This application goes along with a series of tutorials on using React with an API. Instructions on building this app are at:
-Building the Rails API: http://www.techandstartup.org/tutorials/worlds-simplest-redux-with-apis-example
+http://www.techandstartup.org/tutorials/worlds-simplest-redux-with-apis-example
 
 This project was set up with create-react-app.
 
